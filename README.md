@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nacho1691;
-- 👀 I’m interested in (Video Games, Music, Grafic Desing, Programing);
+- 👀 I’m interested in (Video Games, Music, Graphic Desing, Programing);
 - 🌱 I’m currently learning (C#, Music);
 - 💞️ I’m looking to collaborate on ();
 - 📫 How to reach me (nacho111991@gmail.com)
